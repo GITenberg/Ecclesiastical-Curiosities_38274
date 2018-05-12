@@ -1,0 +1,28 @@
+_repo: Ecclesiastical-Curiosities_38274
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38274-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2011-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38274'
+  lccn: '46029258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Churches -- England'
+- !lcsh 'Christian antiquities -- England'
+title: Ecclesiastical Curiosities
+url: http://www.gutenberg.org/ebooks/38274
